@@ -54,8 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\TeddyBear.cs" />
-    <Compile Include="Assets\Scripts\TeddyBearSpawner.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\Scripts\TeddyBearSpawner.cs" />
+    <Compile Include="Assets\Scripts\PortalSpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

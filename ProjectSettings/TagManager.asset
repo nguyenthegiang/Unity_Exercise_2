@@ -9,6 +9,7 @@ TagManager:
   - BottomEdge
   - TopEdge
   - TeddyBear
+  - Portal
   layers:
   - Default
   - TransparentFX
@@ -43,6 +44,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1020527025
+    locked: 0
+  - name: Portal
+    uniqueID: 427760147
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
